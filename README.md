@@ -1,2 +1,2 @@
 # RPS-Game
-Game
+Rpck paper scissor Game
